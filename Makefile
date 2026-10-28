@@ -15,9 +15,9 @@ fetch:
 
 build: $(SRC)
 	@echo "Compiling C Engine..."
-	$(CC) $(CFLAGS) -o (Target) $(SRC)
+	$(CC) $(CFLAGS) -o $(TARGET) $(SRC)
 
-run: build
+run: fetch build
 	./$(TARGET)
 
 clean:
@@ -25,8 +25,7 @@ clean:
 
 help:
 	@echo "Usage"
-	@echo "  make fetch  - Run Python scraper to generate CSV timetable"
-	@echo "  make build  - Compile the C executable"
-	@echo "  make run    - Compile and run the CLI room finder"
-	@echo "  make clean  - Remove compiled binaries and generated data files"
-
+	@echo "  make fetch - Run Python scraper to generate CSV timetable"
+	@echo "  make build - Compile the C executable"
+	@echo "  make run   - Fetch latest timetable data, compile, and run CLI"
+	@echo "  make clean - Remove compiled binaries and generated data files"
