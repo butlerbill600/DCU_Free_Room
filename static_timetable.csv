@@ -1,6 +1,10 @@
 building,room_code,room_type,day,start_time,end_time,module_code
+Polaris Building,GLA.FT01,Lecture Theatre,Wednesday,09:00,11:00,EE101
+Stokes Extension,GLA.SA01,Classroom,Wednesday,10:00,12:00,MM115
+Terence Larkin,GLA.T101,Auditorium,Wednesday,12:00,14:00,GS100
 Henry Grattan,GLA.CG12,Lecture Theatre,Wednesday,10:00,11:00,CSC1037
-LAPP Building,GLA.L101,Computer Lab,Wednesday,09:00,11:00,CA216
-LAPP Building,GLA.L128,Lecture Theatre,Wednesday,11:00,13:00,CA208
-Henry Grattan,GLA.HG05,Classroom,Wednesday,10:00,12:00,CA269
-Marconi/N-Building,GLA.N101,Computer Lab,Wednesday,14:00,16:00,MS200
+Hamilton,GLA.J101,Classroom,Wednesday,14:00,16:00,MS121
+Q Building,GLA.Q119,Lecture Room,Wednesday,11:00,13:00,SB103
+Marconi Building,GLA.N101,Computer Lab,Wednesday,14:00,16:00,MS200
+McNulty,GLA.L101,Computer Lab,Wednesday,09:00,11:00,CA216
+Alice Reeves,GLA.H101,Classroom,Wednesday,13:00,15:00,NS102
