@@ -1,6 +1,6 @@
 building,room_code,room_type,day,start_time,end_time,module_code
+Henry Grattan,GLA.CG12,Lecture Theatre,Wednesday,10:00,11:00,CSC1037
 LAPP Building,GLA.L101,Computer Lab,Wednesday,09:00,11:00,CA216
 LAPP Building,GLA.L128,Lecture Theatre,Wednesday,11:00,13:00,CA208
 Henry Grattan,GLA.HG05,Classroom,Wednesday,10:00,12:00,CA269
 Marconi/N-Building,GLA.N101,Computer Lab,Wednesday,14:00,16:00,MS200
-Callan Building,GLA.CG04,Lecture Theatre,Wednesday,12:00,14:00,EE219
